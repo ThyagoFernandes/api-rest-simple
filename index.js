@@ -7,5 +7,5 @@ app.use('/api', apiRoutes);
 
 app.get('/', (req, res) => res.send('first page'));
 app.listen(port, function () {
-    console.log("Running RestHub on port " + port);
+    console.log("Running RestHub on   port " + port);
 })
