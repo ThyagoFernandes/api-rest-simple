@@ -1,0 +1,22 @@
+{
+  "name": "api-rest-simple",
+  "version": "1.0.0",
+  "description": "a simple api-rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThyagoFernandes/api-rest-simple.git"
+  },
+  "author": "Thyago Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThyagoFernandes/api-rest-simple/issues"
+  },
+  "homepage": "https://github.com/ThyagoFernandes/api-rest-simple#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
